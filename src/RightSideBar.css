@@ -1,0 +1,54 @@
+.RightSideBar{
+    position: sticky;
+    top:80px;
+    flex:0.2;
+    background-color:white;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    height:fit-content;
+    padding: 10px;
+    margin-left: 200px;
+}
+.rightsidebar__recentitems{
+    display: flex;
+    
+    color:gray;
+    border-bottom: 0.1px solid lightgray;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top:10px;
+    padding: 5px;
+    
+}
+
+.sidebar__recentitem__see{
+    display: flex;
+    font-size:11px;
+    color:gray;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top:10px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.rightsidebar__recent__inside{
+    margin-left: 20px;
+}
+.pic{
+    width: 20px;
+    height: 30px;
+    border-radius:100px;
+}
+.profile__class{
+    font-size: 10px;
+    margin-left:20px;
+}
+.company__class{
+    font-size: 9px;
+    margin-left:20px;
+}
+.location__class {
+    font-size: 8px;
+    margin-left: 20px;
+}

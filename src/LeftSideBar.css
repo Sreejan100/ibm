@@ -1,0 +1,54 @@
+.SideBar{
+    top:80px;
+    position:sticky;
+    flex:0.2;
+    border-radius:20px;
+    text-align: center;
+    height:fit-content;
+}
+.sidebar__top{
+    text-align: left;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color:white;
+    box-shadow: 1.5px 1.5px lightgray;
+}
+.sidebar__recentitem{
+    display: flex;
+    font-size:15px;
+    color:gray;
+    border-bottom: 0.1px solid lightgray;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top:10px;
+    padding: 5px;
+}
+
+.janepic {
+    height: 30px;
+    width:30px;  
+    border-radius: 100px;
+
+}
+.janename{
+    margin-left:10px;
+}
+.microsoft{
+    height: 30px;
+    width:30px;  
+    
+}
+
+.sidebar__recentitem__see{
+    display: flex;
+    font-size:11px;
+    color:gray;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-top:10px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}

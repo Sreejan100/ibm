@@ -1,0 +1,242 @@
+.feed{
+    flex:0.6;
+    margin: 0 20px;
+    width:100%;
+
+}
+
+.feed__top{
+    display: flex;
+    background-color:#fff;
+    width:80%;
+    justify-content: space-between;
+    padding:20px;
+    height:fit-content;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 1.5px 1.5px lightgray;
+}
+
+.dashboard{
+    color:#0D0E0E ;
+}
+.global{
+    color:gray;
+}
+.campus{
+    color:blue;
+}
+.trends{
+    color:gray;
+}
+
+.feed__between{
+    display:flex;
+    margin-top: 30px;
+    width:100%;
+    max-width:100% ;
+}
+.profile__block{
+    
+    height:fit-content;
+    padding:10px;
+    width:190px;
+    border-radius: 20px;
+    justify-content: center;
+    border: 2px #000;
+    background-color:#fff;
+    border: 1px solid lightgray;
+    box-shadow: 1.5px 1.5px lightgray;
+    
+   
+}
+.centered__item{
+    margin-left:50px;
+    margin-right:50px;
+    width:100%;
+    justify-content:center;
+    
+}
+.profilephoto{
+    border-radius: 100px;
+    width:30px;
+    height:30px;
+    margin-left: 20px;
+}
+.profile__name{
+    color:gray;
+    font-size: 15px;
+    
+}
+.profile__portfolio{
+    color:gray;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.row__items{
+    margin-top:10px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.profileviewsclass{
+    color:gray;
+    font-size: 11px;
+}
+.followerclass{
+    color:gray;
+    font-size:11px;
+}
+.savedclass{
+    color:gray;
+    font-size:11px;
+}
+.followerno{
+    color:#06E6D3;
+    font-size:11px;
+}
+.profileviewno{
+    color:#06E6D3;
+    font-size: 11px;
+}
+.savedno{
+    color:#06E6D3;
+    font-size:11px;
+}
+.feed__inputContainer{
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 10px;
+    margin-left:30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 1.5px 1.5px lightgray;
+}
+.feed__input{
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    display: flex;
+    padding: 10px;
+    color:gray;
+    
+    background-color: white;
+    
+}
+
+.feed__input > form{
+    display: flex;
+    width: 100%;
+
+}
+
+.feed__input >form > input {
+    border:none;
+    flex:1;
+    margin-left: 30px;
+    outline-width: 0;
+    font-weight: 600;
+}
+
+.feed__input >form >button{
+    display: none;
+}
+.feed__inputOptions{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-evenly;
+}
+.feed__down{
+    background-color: #fff;
+    width: 80%;
+    padding:15px;
+    border: 1px solid lightgray;
+    box-shadow:#000;
+    height:fit-content;
+    border-radius: 20px;
+    box-shadow: 1.5px 1.5px lightgray;
+}
+.feed__down__header{
+    border-bottom: 1px solid lightgray;
+    margin: 10px;
+}
+
+.post__pic{
+    border-radius: 100px;
+    height:45px;
+    width:45px;
+}
+.feed__down__between{
+    margin:10px;
+    display: flex;
+    margin-bottom:10px;
+}
+.post__info{
+    margin-left: 15px;
+}
+.post__info__name{
+    font-size: 15px;
+}
+.post__info__portfolio{
+    font-size: 12.5px;
+    color:gray;
+}
+.post__info__time{
+    font-size:10px;
+    color:gray;
+}
+.message__body{
+    margin:10px;
+}
+.message__body__info{
+    font-size:13px;
+}
+.seemore{
+    color:gray;
+    
+}
+
+.message__body__pic{
+    margin-top:10px;
+    height:190px;
+    width:100%;
+    border-radius: 20px;
+}
+
+.bottom__up{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-evenly;
+}
+
+.bottom__down{
+    display:flex;
+    padding: 10px;
+    
+}
+.form__elements{
+    padding : 10px;
+    display : flex;
+    align-items: center;
+    border-radius: 5px;
+    height :22px;
+    color:gray;
+    background-color: #eef3f8;
+    margin-left: 10px;
+    width:100%;
+   
+}
+.form__elements > form{
+    display: flex;
+    width: 100%;
+    
+    
+
+}
+.form__elements >form > input {
+    border:none;
+    outline:none;
+    background: none;
+    width:100% ;
+    height:30px;
+}
