@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibm/static/css/main.f408a8ac.chunk.css",
+    "main.js": "/ibm/static/js/main.54007fe7.chunk.js",
+    "main.js.map": "/ibm/static/js/main.54007fe7.chunk.js.map",
+    "runtime-main.js": "/ibm/static/js/runtime-main.25bc1c8b.js",
+    "runtime-main.js.map": "/ibm/static/js/runtime-main.25bc1c8b.js.map",
+    "static/js/2.769327ff.chunk.js": "/ibm/static/js/2.769327ff.chunk.js",
+    "static/js/2.769327ff.chunk.js.map": "/ibm/static/js/2.769327ff.chunk.js.map",
+    "static/js/3.4fb067db.chunk.js": "/ibm/static/js/3.4fb067db.chunk.js",
+    "static/js/3.4fb067db.chunk.js.map": "/ibm/static/js/3.4fb067db.chunk.js.map",
+    "index.html": "/ibm/index.html",
+    "static/css/main.f408a8ac.chunk.css.map": "/ibm/static/css/main.f408a8ac.chunk.css.map",
+    "static/js/2.769327ff.chunk.js.LICENSE.txt": "/ibm/static/js/2.769327ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25bc1c8b.js",
+    "static/js/2.769327ff.chunk.js",
+    "static/css/main.f408a8ac.chunk.css",
+    "static/js/main.54007fe7.chunk.js"
+  ]
+}
